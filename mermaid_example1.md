@@ -6,7 +6,7 @@
 3. mermaidをキーワードにしてコードを記述 
    
 ## 拡張機能
-- Markdown Preview Mermaid Support
+- Markdown Preview Mermaid Suppor
 
 ## リンク
 （https://usefuledge.com/vscodemermaidsupport.html）
