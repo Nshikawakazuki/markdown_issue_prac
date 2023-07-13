@@ -3,7 +3,7 @@
 ## VSCodeでmermaidを利用する方法
 1. Markdown Preview Mermaid Support をインストール
 2. Visual Studio Code で .md ファイルを作成
-3. mermaidをキーワードにしてコードを記述 
+3. mermaidをキーワードにしてコード記述 
    
 ## 拡張機能
 - Markdown Preview Mermaid Suppor
